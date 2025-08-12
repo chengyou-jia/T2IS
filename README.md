@@ -23,7 +23,6 @@ Text-to-ImageSet Generation and Evaluation</a>"
 ##  News
 
 - _2025.08_: We release the <a href="https://github.com/chengyou-jia/T2IS/tree/main/T2IS_Eval"><b>[T2IS-Eval]</b></a> evaluation toolkit.
-
 - _2025.07_:  We release the details of <a href="https://huggingface.co/datasets/ChengyouJia/T2IS-Bench"><b>[T2IS-Bench]</b></a>.
 
 
