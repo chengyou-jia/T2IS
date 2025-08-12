@@ -1,6 +1,6 @@
 # T2IS Evaluation Scripts
 
-This directory contains evaluation scripts for Text-to-Image Synthesis (T2IS) models, including prompt alignment and prompt consistency evaluation.
+This directory contains evaluation scripts for Text-to-ImageSet (T2IS) models, including prompt alignment and prompt consistency evaluation.
 
 ## Prerequisites
 

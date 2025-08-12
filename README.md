@@ -13,7 +13,7 @@ Official Repo for "<a href="https://arxiv.org/abs/2506.23275" target="_blank">Wh
 Text-to-ImageSet Generation and Evaluation</a>"
 </p>
 
-> **🚀 Code for evaluation and generation will be released soon. Stay tuned!**  
+> **🚀 Code for ~~evaluation~~ and generation will be released soon. Stay tuned!**  
 > We are working hard to make the code available. Watch this repo for updates!
 
 ## T2IS
@@ -21,6 +21,8 @@ Text-to-ImageSet Generation and Evaluation</a>"
 
 
 ##  News
+
+- _2025.08_: We release the <a href="https://github.com/chengyou-jia/T2IS/tree/main/T2IS_Eval"><b>[T2IS-Eval]</b></a> evaluation toolkit.
 
 - _2025.07_:  We release the details of <a href="https://huggingface.co/datasets/ChengyouJia/T2IS-Bench"><b>[T2IS-Bench]</b></a>.
 
