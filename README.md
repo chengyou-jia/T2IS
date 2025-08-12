@@ -16,8 +16,8 @@ Text-to-ImageSet Generation and Evaluation</a>"
 > **🚀 Code for evaluation and generation will be released soon. Stay tuned!**  
 > We are working hard to make the code available. Watch this repo for updates!
 
-## ChatGen
-![ChatGen](./pic/introduction.png)
+## T2IS
+![T2IS](./pic/introduction.png)
 
 
 ##  News
