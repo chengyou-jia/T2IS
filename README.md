@@ -107,15 +107,12 @@ for seed_idx, seed in enumerate(seeds):
     image.save(os.path.join(seed_output_path, f"{idx}_merge_seed{seed}.png"))
 ```
 ## Generated ImageSet
-<details open>
 <summary>Examples</summary> 
 <table class="center">
   <tr>
     <td width=100% style="border: none"><img src="pic/0001_0003_merge_seed1234.png" style="width:100%"></td>
   </tr>
-  </table>
-</details>
-
+</table>
 
 
 ## Citation
