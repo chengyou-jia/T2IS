@@ -106,8 +106,24 @@ for seed_idx, seed in enumerate(seeds):
         continue
     image.save(os.path.join(seed_output_path, f"{idx}_merge_seed{seed}.png"))
 ```
-
-
+## Generated ImageSet
+<details open>
+<summary>Examples</summary> 
+<table class="center">
+  <tr>
+    <td width=100% style="border: none"><img src="pic/0001_0003_merge_seed1234.png" style="width:100%"></td>
+  </tr>
+  <tr>
+    <td width="100%" style="border: none; text-align: center; word-wrap: break-word">On the left, Einstein is painting the Mona Lisa; in the center, Elon Reeve Musk is participating in the U.S. presidential election; on the right, Trump is hosting a Tesla product launch.</td>
+  </tr>
+  <tr>
+    <td width="50%" style="border: none; text-align: center; word-wrap: break-word">
+      <pre style="background-color: #f4f4f4; padding: 10px; border-radius: 5px; font-family: Consolas, monospace; font-size: 16px; display: inline-block;">python RAG.py --idx=0</pre>
+    </td>
+    </td>
+  </td>
+  </table>
+</details>
 
 
 
