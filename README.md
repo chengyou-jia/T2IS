@@ -22,6 +22,9 @@ Text-to-ImageSet Generation and Evaluation</a>"
 
 ##  News
 
+- _2025.10_: We have added the latest **Seedream 4.0** results. Please refer to the [Seedream 4.0 Demo](https://www.volcengine.com/experience/ark?launch=seedream) and the attached file [**T2IS_Seedream.zip**](https://huggingface.co/datasets/ChengyouJia/T2IS-Bench).
+
+
 - _2025.09_: We release the <a href="https://github.com/chengyou-jia/T2IS/tree/main/T2IS_Gen"><b>[T2IS-Gen]</b></a> simple version of set-aware generation code.
 
 
